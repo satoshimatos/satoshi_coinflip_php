@@ -1,0 +1,20 @@
+li {
+    list-style-type: none;
+}
+
+div.leftpane {
+    text-align: center;
+    width: 160px;
+    height: 100px;
+    overflow: auto;
+    border-style: outset;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+div.rightpane {
+    text-align: center;
+    border-style: outset;
+    border-radius: 10px;
+    padding: 20px;
+}
